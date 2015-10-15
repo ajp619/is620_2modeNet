@@ -1,0 +1,2564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="gender" type="string" />
+      <attribute id="1" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="c225" label="c225">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORSKE SKOGINDUSTRIER ASA" />
+        </attvalues>
+      </node>
+      <node id="c224" label="c224">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORSK TILLITSMANN ASA" />
+        </attvalues>
+      </node>
+      <node id="c1" label="c1">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="24SEVENOFFICE ASA" />
+        </attvalues>
+      </node>
+      <node id="c221" label="c221">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORMAN ASA" />
+        </attvalues>
+      </node>
+      <node id="c220" label="c220">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORGESGRUPPEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c223" label="c223">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Norsk Hydro ASA" />
+        </attvalues>
+      </node>
+      <node id="c222" label="c222">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORSE ENERGY CORP. ASA" />
+        </attvalues>
+      </node>
+      <node id="c179" label="c179">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KVERNELAND ASA" />
+        </attvalues>
+      </node>
+      <node id="c171" label="c171">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ITERA CONSULTING GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c173" label="c173">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KITRON ASA" />
+        </attvalues>
+      </node>
+      <node id="c172" label="c172">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KEBONY ASA" />
+        </attvalues>
+      </node>
+      <node id="c175" label="c175">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KOMPLETT ASA" />
+        </attvalues>
+      </node>
+      <node id="c174" label="c174">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KOLIBRI KAPITAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c177" label="c177">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KONGSBERG GRUPPEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c176" label="c176">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="KONGSBERG AUTOMOTIVE HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c379" label="c379">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="WILH. WILHELMSEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c378" label="c378">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="WENAAS HOTELS ASA" />
+        </attvalues>
+      </node>
+      <node id="c377" label="c377">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="WEGA OIL ASA" />
+        </attvalues>
+      </node>
+      <node id="c376" label="c376">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Voss Veksel- og Landmandsbank ASA" />
+        </attvalues>
+      </node>
+      <node id="c375" label="c375">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VOSS OF NORWAY ASA" />
+        </attvalues>
+      </node>
+      <node id="c374" label="c374">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VITAL FORSIKRING ASA" />
+        </attvalues>
+      </node>
+      <node id="c373" label="c373">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VITAL EIENDOMSFOND ASA" />
+        </attvalues>
+      </node>
+      <node id="c372" label="c372">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VIKING FOTBALL ASA" />
+        </attvalues>
+      </node>
+      <node id="c370" label="c370">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VIA TRAVEL GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c298" label="c298">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SEAGARDEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c299" label="c299">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SEB PRIVATBANKEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c294" label="c294">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SCANA INDUSTRIER ASA" />
+        </attvalues>
+      </node>
+      <node id="c295" label="c295">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SCANARC ASA" />
+        </attvalues>
+      </node>
+      <node id="c296" label="c296">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SCANDINAVIAN PROPERTY DEVELOPMENT ASA" />
+        </attvalues>
+      </node>
+      <node id="c297" label="c297">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SCHIBSTED ASA" />
+        </attvalues>
+      </node>
+      <node id="c290" label="c290">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SAGA OIL ASA" />
+        </attvalues>
+      </node>
+      <node id="c291" label="c291">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SAGEX PETROLEUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c292" label="c292">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SALMAR ASA" />
+        </attvalues>
+      </node>
+      <node id="c108" label="c108">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EIDSIVA REDERI ASA" />
+        </attvalues>
+      </node>
+      <node id="c109" label="c109">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EITZEN CHEMICAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c104" label="c104">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DOMSTEIN ASA" />
+        </attvalues>
+      </node>
+      <node id="c105" label="c105">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DROPZONE ASA" />
+        </attvalues>
+      </node>
+      <node id="c106" label="c106">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EDB BUSINESS PARTNER ASA" />
+        </attvalues>
+      </node>
+      <node id="c107" label="c107">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EIDESVIK OFFSHORE ASA" />
+        </attvalues>
+      </node>
+      <node id="c100" label="c100">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DNO INTERNATIONAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c101" label="c101">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DOF ASA" />
+        </attvalues>
+      </node>
+      <node id="c102" label="c102">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DOF INSTALLER ASA" />
+        </attvalues>
+      </node>
+      <node id="c103" label="c103">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DOLPHIN INTERCONNECT SOLUTIONS ASA" />
+        </attvalues>
+      </node>
+      <node id="c207" label="c207">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NEXTCOM HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c206" label="c206">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NETWORK SOLUTIONS NORWAY ASA" />
+        </attvalues>
+      </node>
+      <node id="c205" label="c205">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NETSHOP ASA" />
+        </attvalues>
+      </node>
+      <node id="c204" label="c204">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NETFONDS HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c203" label="c203">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NETFONDS BANK ASA" />
+        </attvalues>
+      </node>
+      <node id="c202" label="c202">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NETCOM ASA" />
+        </attvalues>
+      </node>
+      <node id="c201" label="c201">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NEMI FORSIKRING ASA" />
+        </attvalues>
+      </node>
+      <node id="c200" label="c200">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NEAS ASA" />
+        </attvalues>
+      </node>
+      <node id="c209" label="c209">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORD POOL CLEARING ASA" />
+        </attvalues>
+      </node>
+      <node id="c208" label="c208">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORD POOL ASA" />
+        </attvalues>
+      </node>
+      <node id="c197" label="c197">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NAVAMEDIC ASA" />
+        </attvalues>
+      </node>
+      <node id="c196" label="c196">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NAUST ASA" />
+        </attvalues>
+      </node>
+      <node id="c195" label="c195">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NATTOPHARMA ASA" />
+        </attvalues>
+      </node>
+      <node id="c194" label="c194">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Namsos Trafikkselskap ASA" />
+        </attvalues>
+      </node>
+      <node id="c192" label="c192">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Moelven Industrier ASA" />
+        </attvalues>
+      </node>
+      <node id="c190" label="c190">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MEDIA NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c198" label="c198">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NAVITAS CAPITAL MANAGEMENT ASA" />
+        </attvalues>
+      </node>
+      <node id="c333" label="c333">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STOREBRAND ASA" />
+        </attvalues>
+      </node>
+      <node id="c332" label="c332">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STEPSTONE ASA" />
+        </attvalues>
+      </node>
+      <node id="c331" label="c331">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STATOILHYDRO ASA" />
+        </attvalues>
+      </node>
+      <node id="c330" label="c330">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STATOIL KAPITALFORVALTNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c337" label="c337">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STOREBRAND OPTIM&amp;Eacute;R ASA" />
+        </attvalues>
+      </node>
+      <node id="c336" label="c336">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STOREBRAND INSTITUSJONELL INVESTOR ASA" />
+        </attvalues>
+      </node>
+      <node id="c335" label="c335">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STOREBRAND INFRASTRUKTUR ASA" />
+        </attvalues>
+      </node>
+      <node id="c334" label="c334">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STOREBRAND BANK ASA" />
+        </attvalues>
+      </node>
+      <node id="c339" label="c339">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Storfjordsambandet ASA" />
+        </attvalues>
+      </node>
+      <node id="c338" label="c338">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="STOREBRAND PRIVAT INVESTOR ASA" />
+        </attvalues>
+      </node>
+      <node id="c44" label="c44">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AXIR ASA" />
+        </attvalues>
+      </node>
+      <node id="c45" label="c45">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AXIS-SHIELD ASA" />
+        </attvalues>
+      </node>
+      <node id="c47" label="c47">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BADGER EXPLORER ASA" />
+        </attvalues>
+      </node>
+      <node id="c40" label="c40">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ARROW SEISMIC ASA" />
+        </attvalues>
+      </node>
+      <node id="c41" label="c41">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ASKER OG B&amp;AElig;RUMS BUDSTIKKE ASA" />
+        </attvalues>
+      </node>
+      <node id="c42" label="c42">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ATEA ASA" />
+        </attvalues>
+      </node>
+      <node id="c43" label="c43">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AUSTEVOLL SEAFOOD ASA" />
+        </attvalues>
+      </node>
+      <node id="c48" label="c48">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BANK2 ASA" />
+        </attvalues>
+      </node>
+      <node id="c49" label="c49">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BB FINANS ASA" />
+        </attvalues>
+      </node>
+      <node id="c140" label="c140">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GLAMOX ASA" />
+        </attvalues>
+      </node>
+      <node id="c141" label="c141">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GLOBAL RIG COMPANY ASA" />
+        </attvalues>
+      </node>
+      <node id="c142" label="c142">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GLOBAL TENDER BARGES ASA" />
+        </attvalues>
+      </node>
+      <node id="c143" label="c143">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GOODTECH ASA" />
+        </attvalues>
+      </node>
+      <node id="c144" label="c144">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GREEN REEFERS ASA" />
+        </attvalues>
+      </node>
+      <node id="c145" label="c145">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GREENTECH HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c146" label="c146">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GREGOIRE ASA" />
+        </attvalues>
+      </node>
+      <node id="c147" label="c147">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GRENLAND GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c148" label="c148">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GRIEG SEAFOOD ASA" />
+        </attvalues>
+      </node>
+      <node id="c149" label="c149">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GUARD SYSTEMS ASA" />
+        </attvalues>
+      </node>
+      <node id="c384" label="c384">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ZONCOLAN ASA" />
+        </attvalues>
+      </node>
+      <node id="c382" label="c382">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="YA HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c383" label="c383">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="YARA INTERNATIONAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c380" label="c380">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="WILSON ASA" />
+        </attvalues>
+      </node>
+      <node id="c381" label="c381">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="WINTERSHALL NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c249" label="c249">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OTRUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c248" label="c248">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OSLO CLEARING ASA" />
+        </attvalues>
+      </node>
+      <node id="c243" label="c243">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OPTIMUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c242" label="c242">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OPRA TECHNOLOGIES ASA" />
+        </attvalues>
+      </node>
+      <node id="c241" label="c241">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OPERA SOFTWARE ASA" />
+        </attvalues>
+      </node>
+      <node id="c240" label="c240">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Olav Thon Eiendomsselskap ASA" />
+        </attvalues>
+      </node>
+      <node id="c247" label="c247">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OSLO B&amp;Oslash;RS VPS HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c246" label="c246">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OSLO B&amp;Oslash;RS ASA" />
+        </attvalues>
+      </node>
+      <node id="c245" label="c245">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ORRELEIK ASA" />
+        </attvalues>
+      </node>
+      <node id="c244" label="c244">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ORKLA ASA" />
+        </attvalues>
+      </node>
+      <node id="c348" label="c348">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TELENOR ASA" />
+        </attvalues>
+      </node>
+      <node id="c349" label="c349">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TELIO HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c342" label="c342">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Tandberg ASA" />
+        </attvalues>
+      </node>
+      <node id="c340" label="c340">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SUNKOST ASA" />
+        </attvalues>
+      </node>
+      <node id="c341" label="c341">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SYNN&amp;Oslash;VE FINDEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c346" label="c346">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TECO MARITIME ASA" />
+        </attvalues>
+      </node>
+      <node id="c347" label="c347">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TELECOMPUTING ASA" />
+        </attvalues>
+      </node>
+      <node id="c345" label="c345">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TECHNOR ENERGY ASA" />
+        </attvalues>
+      </node>
+      <node id="c39" label="c39">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ARENDALS FOSSEKOMPANI ASA" />
+        </attvalues>
+      </node>
+      <node id="c38" label="c38">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ARENA GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c35" label="c35">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="APPTIX ASA" />
+        </attvalues>
+      </node>
+      <node id="c34" label="c34">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AMERICAN SHIPPING COMPANY ASA" />
+        </attvalues>
+      </node>
+      <node id="c37" label="c37">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ARCTIC SECURITIES ASA" />
+        </attvalues>
+      </node>
+      <node id="c36" label="c36">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AQUA BIO TECHNOLOGY ASA" />
+        </attvalues>
+      </node>
+      <node id="c31" label="c31">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ALLEGRO FINANS ASA" />
+        </attvalues>
+      </node>
+      <node id="c30" label="c30">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ALGETA ASA" />
+        </attvalues>
+      </node>
+      <node id="c33" label="c33">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AMBRA ASA" />
+        </attvalues>
+      </node>
+      <node id="c32" label="c32">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ALTINEX ASA" />
+        </attvalues>
+      </node>
+      <node id="c289" label="c289">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RUSSIA BALTIC PORK INVEST ASA" />
+        </attvalues>
+      </node>
+      <node id="c288" label="c288">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RS PLATOU ASA" />
+        </attvalues>
+      </node>
+      <node id="c287" label="c287">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ROXAR ASA" />
+        </attvalues>
+      </node>
+      <node id="c286" label="c286">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ROSENLUND ASA" />
+        </attvalues>
+      </node>
+      <node id="c285" label="c285">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ROCKSOURCE ASA" />
+        </attvalues>
+      </node>
+      <node id="c284" label="c284">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RIEBER &amp;amp; S&amp;Oslash;N ASA" />
+        </attvalues>
+      </node>
+      <node id="c283" label="c283">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RETIL ASA" />
+        </attvalues>
+      </node>
+      <node id="c282" label="c282">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RESTRU-REORG ASA" />
+        </attvalues>
+      </node>
+      <node id="c281" label="c281">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RESERVOIR EXPLORATION TECHNOLOGY ASA" />
+        </attvalues>
+      </node>
+      <node id="c280" label="c280">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="REPANT ASA" />
+        </attvalues>
+      </node>
+      <node id="c119" label="c119">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FARSTAD SHIPPING ASA" />
+        </attvalues>
+      </node>
+      <node id="c118" label="c118">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FARA ASA" />
+        </attvalues>
+      </node>
+      <node id="c117" label="c117">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FAKTOR EIENDOM ASA" />
+        </attvalues>
+      </node>
+      <node id="c115" label="c115">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ETMAN INTERNATIONAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c114" label="c114">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ELTEK ASA" />
+        </attvalues>
+      </node>
+      <node id="c113" label="c113">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ELECTROMAGNETIC GEOSERVICES ASA" />
+        </attvalues>
+      </node>
+      <node id="c112" label="c112">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EKSPORTFINANS ASA" />
+        </attvalues>
+      </node>
+      <node id="c111" label="c111">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EKORNES ASA" />
+        </attvalues>
+      </node>
+      <node id="c110" label="c110">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="EITZEN MARITIME SERVICES ASA" />
+        </attvalues>
+      </node>
+      <node id="c232" label="c232">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NOS CLEARING ASA" />
+        </attvalues>
+      </node>
+      <node id="c233" label="c233">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NRP ASSET MANAGEMENT ASA" />
+        </attvalues>
+      </node>
+      <node id="c230" label="c230">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORWEGIAN FINANS HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c231" label="c231">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORWEGIAN PROPERTY ASA" />
+        </attvalues>
+      </node>
+      <node id="c236" label="c236">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NUTRI PHARMA ASA" />
+        </attvalues>
+      </node>
+      <node id="c234" label="c234">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NRP SECURITIES ASA" />
+        </attvalues>
+      </node>
+      <node id="c235" label="c235">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NUSSIR ASA" />
+        </attvalues>
+      </node>
+      <node id="c238" label="c238">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="OCEANTEAM ASA" />
+        </attvalues>
+      </node>
+      <node id="c239" label="c239">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ODIM ASA" />
+        </attvalues>
+      </node>
+      <node id="c308" label="c308">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SIKON &amp;Oslash;ST ASA" />
+        </attvalues>
+      </node>
+      <node id="c309" label="c309">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Simrad Optronics ASA" />
+        </attvalues>
+      </node>
+      <node id="c306" label="c306">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SEVAN DRILLING ASA" />
+        </attvalues>
+      </node>
+      <node id="c307" label="c307">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SEVAN MARINE ASA" />
+        </attvalues>
+      </node>
+      <node id="c304" label="c304">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SECTOR OMEGA ASA" />
+        </attvalues>
+      </node>
+      <node id="c305" label="c305">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SECTOR THETA ASA" />
+        </attvalues>
+      </node>
+      <node id="c302" label="c302">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SECTOR FUND SERVICES ASA" />
+        </attvalues>
+      </node>
+      <node id="c303" label="c303">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SECTOR GAMMA ASA" />
+        </attvalues>
+      </node>
+      <node id="c300" label="c300">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SECTOR CAPITAL ADVISORS ASA" />
+        </attvalues>
+      </node>
+      <node id="c301" label="c301">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SECTOR EPSILON ASA" />
+        </attvalues>
+      </node>
+      <node id="c79" label="c79">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CLAVIS PHARMA ASA" />
+        </attvalues>
+      </node>
+      <node id="c78" label="c78">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CITUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c71" label="c71">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CASTELAR CORPORATE FINANCE ASA" />
+        </attvalues>
+      </node>
+      <node id="c70" label="c70">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CARNEGIE ASA" />
+        </attvalues>
+      </node>
+      <node id="c73" label="c73">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CECON ASA" />
+        </attvalues>
+      </node>
+      <node id="c72" label="c72">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CAVEO EIENDOM 1 ASA" />
+        </attvalues>
+      </node>
+      <node id="c75" label="c75">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CENTENNIAL EIENDOM ASA" />
+        </attvalues>
+      </node>
+      <node id="c74" label="c74">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CENTENNIAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c77" label="c77">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CICERO FORLAG ASA" />
+        </attvalues>
+      </node>
+      <node id="c76" label="c76">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CERMAQ ASA" />
+        </attvalues>
+      </node>
+      <node id="c93" label="c93">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DIAGENIC ASA" />
+        </attvalues>
+      </node>
+      <node id="c92" label="c92">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DET NORSKE OLJESELSKAP ASA" />
+        </attvalues>
+      </node>
+      <node id="c151" label="c151">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="H&amp;Ouml;EGH CAPITAL PARTNERS ASA" />
+        </attvalues>
+      </node>
+      <node id="c90" label="c90">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DATA DESIGN SYSTEM ASA" />
+        </attvalues>
+      </node>
+      <node id="c97" label="c97">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DNB NOR EIENDOMSINVEST I ASA" />
+        </attvalues>
+      </node>
+      <node id="c96" label="c96">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DNB NOR BANK ASA" />
+        </attvalues>
+      </node>
+      <node id="c95" label="c95">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DNB NOR ASA" />
+        </attvalues>
+      </node>
+      <node id="c154" label="c154">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HAVILA SHIPPING ASA" />
+        </attvalues>
+      </node>
+      <node id="c99" label="c99">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DNB NOR SHIPPINGINVEST I ASA" />
+        </attvalues>
+      </node>
+      <node id="c98" label="c98">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DNB NOR PRIVATE EQUITY I ASA" />
+        </attvalues>
+      </node>
+      <node id="c276" label="c276">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="READ ASA" />
+        </attvalues>
+      </node>
+      <node id="c277" label="c277">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="REM OFFSHORE ASA" />
+        </attvalues>
+      </node>
+      <node id="c274" label="c274">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RAINPOWER ASA" />
+        </attvalues>
+      </node>
+      <node id="c272" label="c272">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PSI GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c273" label="c273">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Q-FREE ASA" />
+        </attvalues>
+      </node>
+      <node id="c270" label="c270">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PRONOVA BIOPHARMA ASA" />
+        </attvalues>
+      </node>
+      <node id="c271" label="c271">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PROTECTOR FORSIKRING ASA" />
+        </attvalues>
+      </node>
+      <node id="c278" label="c278">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="REMORA ASA" />
+        </attvalues>
+      </node>
+      <node id="c279" label="c279">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="RENEWABLE ENERGY CORPORATION ASA" />
+        </attvalues>
+      </node>
+      <node id="c86" label="c86">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CONCEDO ASA" />
+        </attvalues>
+      </node>
+      <node id="c87" label="c87">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CONTRACT CO ALFA ASA" />
+        </attvalues>
+      </node>
+      <node id="c88" label="c88">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CONTRACT CO BETA ASA" />
+        </attvalues>
+      </node>
+      <node id="c89" label="c89">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="COPEINCA ASA" />
+        </attvalues>
+      </node>
+      <node id="c355" label="c355">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TIDE ASA" />
+        </attvalues>
+      </node>
+      <node id="c354" label="c354">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="THIN FILM ELECTRONICS ASA" />
+        </attvalues>
+      </node>
+      <node id="c357" label="c357">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TORGHATTEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c356" label="c356">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TOMRA SYSTEMS ASA" />
+        </attvalues>
+      </node>
+      <node id="c350" label="c350">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TERMAR SEA FARM ASA" />
+        </attvalues>
+      </node>
+      <node id="c353" label="c353">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TGS NOPEC GEOPHYSICAL COMPANY ASA" />
+        </attvalues>
+      </node>
+      <node id="c352" label="c352">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TEXAS INSTRUMENTS NORWAY ASA" />
+        </attvalues>
+      </node>
+      <node id="c22" label="c22">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER PHILADELPHIA SHIPYARD ASA" />
+        </attvalues>
+      </node>
+      <node id="c23" label="c23">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER SEAFOODS ASA" />
+        </attvalues>
+      </node>
+      <node id="c20" label="c20">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER EXPLORATION ASA" />
+        </attvalues>
+      </node>
+      <node id="c21" label="c21">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER FLOATING PRODUCTION ASA" />
+        </attvalues>
+      </node>
+      <node id="c26" label="c26">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKTIV LINK KAPITALFORVALTNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c27" label="c27">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKVA GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c24" label="c24">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER SOLUTIONS ASA" />
+        </attvalues>
+      </node>
+      <node id="c25" label="c25">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKTIV KAPITAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c28" label="c28">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ALADDIN OIL &amp;amp; GAS COMPANY ASA" />
+        </attvalues>
+      </node>
+      <node id="c29" label="c29">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ALBERTA OILCO ASA" />
+        </attvalues>
+      </node>
+      <node id="c128" label="c128">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FJORD MARIN HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c129" label="c129">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FONDSFINANS ASA" />
+        </attvalues>
+      </node>
+      <node id="c122" label="c122">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FEARNLEY FONDS ASA" />
+        </attvalues>
+      </node>
+      <node id="c120" label="c120">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FASADECOMPAGNIET ASA" />
+        </attvalues>
+      </node>
+      <node id="c121" label="c121">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FEARNLEY FINANS EIENDOM ASA" />
+        </attvalues>
+      </node>
+      <node id="c126" label="c126">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FISH POOL ASA" />
+        </attvalues>
+      </node>
+      <node id="c127" label="c127">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FISHEX ASA" />
+        </attvalues>
+      </node>
+      <node id="c125" label="c125">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FISCHE ASA" />
+        </attvalues>
+      </node>
+      <node id="c8" label="c8">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ABG SUNDAL COLLIER NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c229" label="c229">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORWEGIAN ENERGY COMPANY ASA" />
+        </attvalues>
+      </node>
+      <node id="c228" label="c228">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORWEGIAN AIR SHUTTLE ASA" />
+        </attvalues>
+      </node>
+      <node id="c3" label="c3">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ABERDEEN EIENDOMSFOND ASIA ASA" />
+        </attvalues>
+      </node>
+      <node id="c2" label="c2">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="A-COM NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c227" label="c227">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORWAY PELAGIC ASA" />
+        </attvalues>
+      </node>
+      <node id="c226" label="c226">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORTHERN LOGISTIC PROPERTY ASA" />
+        </attvalues>
+      </node>
+      <node id="c7" label="c7">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ABG SUNDAL COLLIER HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c6" label="c6">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ABERDEEN PROPERTY INVESTORS CORPORATE ASA" />
+        </attvalues>
+      </node>
+      <node id="c5" label="c5">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ABERDEEN EIENDOMSFOND NORGE II ASA" />
+        </attvalues>
+      </node>
+      <node id="c4" label="c4">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ABERDEEN EIENDOMSFOND NORDEN/BALTIKUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c318" label="c318">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SOLVANG ASA" />
+        </attvalues>
+      </node>
+      <node id="c311" label="c311">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SIMTRONICS ASA" />
+        </attvalues>
+      </node>
+      <node id="c310" label="c310">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SIMRAY ASA" />
+        </attvalues>
+      </node>
+      <node id="c313" label="c313">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SKEI MARINFISK ASA" />
+        </attvalues>
+      </node>
+      <node id="c312" label="c312">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SISSENER SIRIUS ASA" />
+        </attvalues>
+      </node>
+      <node id="c315" label="c315">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Skiens Aktiem&amp;oslash;lle ASA" />
+        </attvalues>
+      </node>
+      <node id="c314" label="c314">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SKEIE DRILLING &amp;amp; PRODUCTION ASA" />
+        </attvalues>
+      </node>
+      <node id="c317" label="c317">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SOLSTAD OFFSHORE ASA" />
+        </attvalues>
+      </node>
+      <node id="c316" label="c316">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SOLMUNDE &amp;amp; PARTNERS ASA" />
+        </attvalues>
+      </node>
+      <node id="c66" label="c66">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CAMBI ASA" />
+        </attvalues>
+      </node>
+      <node id="c67" label="c67">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CAMILLO EITZEN &amp;amp; CO ASA" />
+        </attvalues>
+      </node>
+      <node id="c64" label="c64">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BYGD&amp;Oslash; ALL&amp;Eacute; FINANSSENTER ASA" />
+        </attvalues>
+      </node>
+      <node id="c65" label="c65">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BYGGMA ASA" />
+        </attvalues>
+      </node>
+      <node id="c62" label="c62">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BRYLLUPSMAGASINET NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c63" label="c63">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BWG HOMES ASA" />
+        </attvalues>
+      </node>
+      <node id="c60" label="c60">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BORGESTAD INDUSTRIES ASA" />
+        </attvalues>
+      </node>
+      <node id="c61" label="c61">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BOUVET ASA" />
+        </attvalues>
+      </node>
+      <node id="c80" label="c80">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CLIENT COMPUTING EUROPE ASA" />
+        </attvalues>
+      </node>
+      <node id="c81" label="c81">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CLUE NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c82" label="c82">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="CODFARMERS ASA" />
+        </attvalues>
+      </node>
+      <node id="c83" label="c83">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="COLOR GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c84" label="c84">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="COMPUSOFT ASA" />
+        </attvalues>
+      </node>
+      <node id="c85" label="c85">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="COMROD COMMUNICATION ASA" />
+        </attvalues>
+      </node>
+      <node id="c168" label="c168">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INTEX RESOURCES ASA" />
+        </attvalues>
+      </node>
+      <node id="c169" label="c169">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INVEST-SERV ASA" />
+        </attvalues>
+      </node>
+      <node id="c166" label="c166">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INTERNATIONAL MARITIME EXCHANGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c167" label="c167">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INTEROIL EXPLORATION AND PRODUCTION ASA" />
+        </attvalues>
+      </node>
+      <node id="c164" label="c164">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INFRATEK ASA" />
+        </attvalues>
+      </node>
+      <node id="c165" label="c165">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INMETA ASA" />
+        </attvalues>
+      </node>
+      <node id="c162" label="c162">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="IMAREX ASA" />
+        </attvalues>
+      </node>
+      <node id="c163" label="c163">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="INDEPENDENT OIL &amp;amp; RESOURCES ASA" />
+        </attvalues>
+      </node>
+      <node id="c160" label="c160">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="IDEX ASA" />
+        </attvalues>
+      </node>
+      <node id="c161" label="c161">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="IGNIS ASA" />
+        </attvalues>
+      </node>
+      <node id="c368" label="c368">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VERDIPAPIRSENTRALEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c369" label="c369">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VERTICAL GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c364" label="c364">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="UNISYS VERICOM ASA" />
+        </attvalues>
+      </node>
+      <node id="c365" label="c365">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VAAGEN ASSET MANAGEMENT ASA" />
+        </attvalues>
+      </node>
+      <node id="c366" label="c366">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Veidekke ASA" />
+        </attvalues>
+      </node>
+      <node id="c367" label="c367">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="VERDIBANKEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c360" label="c360">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="TTS MARINE ASA" />
+        </attvalues>
+      </node>
+      <node id="c361" label="c361">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ULSTEIN GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c362" label="c362">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="UMOE BIOENERGY ASA" />
+        </attvalues>
+      </node>
+      <node id="c363" label="c363">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="UNISON FORSIKRING ASA" />
+        </attvalues>
+      </node>
+      <node id="c19" label="c19">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER DRILLING ASA" />
+        </attvalues>
+      </node>
+      <node id="c18" label="c18">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER CONTRACTING FP ASA" />
+        </attvalues>
+      </node>
+      <node id="c13" label="c13">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AF GRUPPEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c12" label="c12">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ACTA KAPITALFORVALTNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c11" label="c11">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ACTA HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c10" label="c10">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="ACTA ASSET MANAGEMENT ASA" />
+        </attvalues>
+      </node>
+      <node id="c17" label="c17">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER BIOMARINE ASA" />
+        </attvalues>
+      </node>
+      <node id="c16" label="c16">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER ASSET MANAGEMENT ASA" />
+        </attvalues>
+      </node>
+      <node id="c15" label="c15">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AKER ASA" />
+        </attvalues>
+      </node>
+      <node id="c14" label="c14">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="AGR GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c260" label="c260">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PETROLIA DRILLING ASA" />
+        </attvalues>
+      </node>
+      <node id="c263" label="c263">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PLANTASJEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c262" label="c262">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PHOTOCURE ASA" />
+        </attvalues>
+      </node>
+      <node id="c265" label="c265">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="POLYDISPLAY ASA" />
+        </attvalues>
+      </node>
+      <node id="c264" label="c264">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="POLARIS MEDIA ASA" />
+        </attvalues>
+      </node>
+      <node id="c267" label="c267">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="POWEL ASA" />
+        </attvalues>
+      </node>
+      <node id="c266" label="c266">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="POSTBANKEN EIENDOMSFOND ASA" />
+        </attvalues>
+      </node>
+      <node id="c269" label="c269">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PROCORP ASA" />
+        </attvalues>
+      </node>
+      <node id="c268" label="c268">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PROBIO ASA" />
+        </attvalues>
+      </node>
+      <node id="c153" label="c153">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HAVILA ARIEL ASA" />
+        </attvalues>
+      </node>
+      <node id="c152" label="c152">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HAFSLUND ASA" />
+        </attvalues>
+      </node>
+      <node id="c91" label="c91">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DATA RESPONS ASA" />
+        </attvalues>
+      </node>
+      <node id="c214" label="c214">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDIC MINING ASA" />
+        </attvalues>
+      </node>
+      <node id="c215" label="c215">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDIC PETROLEUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c216" label="c216">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDIC PRECIOUS METALS ASA" />
+        </attvalues>
+      </node>
+      <node id="c217" label="c217">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDIC SEMICONDUCTOR ASA" />
+        </attvalues>
+      </node>
+      <node id="c210" label="c210">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDEA BANK NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c211" label="c211">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDIAG ASA" />
+        </attvalues>
+      </node>
+      <node id="c212" label="c212">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDIC HEALTH ASA" />
+        </attvalues>
+      </node>
+      <node id="c157" label="c157">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HURTIGRUTEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c218" label="c218">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDISK ENERGIFORVALTNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c219" label="c219">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NORDLANDSBANKEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c156" label="c156">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HJELLEGJERDE ASA" />
+        </attvalues>
+      </node>
+      <node id="c184" label="c184">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MARACC - MARINE ACCURATE WELL ASA" />
+        </attvalues>
+      </node>
+      <node id="c185" label="c185">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MARINE FARMS ASA" />
+        </attvalues>
+      </node>
+      <node id="c186" label="c186">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MARINE HARVEST ASA" />
+        </attvalues>
+      </node>
+      <node id="c187" label="c187">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MARKEDSKRAFT ASA" />
+        </attvalues>
+      </node>
+      <node id="c180" label="c180">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="LABS2 NORGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c181" label="c181">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="LER&amp;Oslash;Y SEAFOOD GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c182" label="c182">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="LIGHTHOUSE CALEDONIA ASA" />
+        </attvalues>
+      </node>
+      <node id="c183" label="c183">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MAMUT ASA" />
+        </attvalues>
+      </node>
+      <node id="c94" label="c94">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="DIPS ASA" />
+        </attvalues>
+      </node>
+      <node id="c188" label="c188">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MASTER MARINE ASA" />
+        </attvalues>
+      </node>
+      <node id="c189" label="c189">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="MEDI-STIM ASA" />
+        </attvalues>
+      </node>
+      <node id="c159" label="c159">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="IBAS HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c158" label="c158">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HVAL SJOKOLADEFABRIKK ASA" />
+        </attvalues>
+      </node>
+      <node id="c320" label="c320">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SPAR KAPITAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c321" label="c321">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SPAREBANK 1 NORD-NORGE SECURITIES ASA" />
+        </attvalues>
+      </node>
+      <node id="c322" label="c322">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SPECTRUM ASA" />
+        </attvalues>
+      </node>
+      <node id="c323" label="c323">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SPON FISH ASA" />
+        </attvalues>
+      </node>
+      <node id="c325" label="c325">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SR-FORVALTNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c326" label="c326">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SSB ENERGIVEKST ASA" />
+        </attvalues>
+      </node>
+      <node id="c327" label="c327">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SSB GLOBAL EIENDOM I ASA" />
+        </attvalues>
+      </node>
+      <node id="c328" label="c328">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="SSB SECURITIES ASA" />
+        </attvalues>
+      </node>
+      <node id="c57" label="c57">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BNBANK ASA" />
+        </attvalues>
+      </node>
+      <node id="c56" label="c56">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BLOM ASA" />
+        </attvalues>
+      </node>
+      <node id="c55" label="c55">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BJ&amp;Oslash;RGE ASA" />
+        </attvalues>
+      </node>
+      <node id="c54" label="c54">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BIRDSTEP TECHNOLOGY ASA" />
+        </attvalues>
+      </node>
+      <node id="c53" label="c53">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BIOTEC PHARMACON ASA" />
+        </attvalues>
+      </node>
+      <node id="c52" label="c52">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BERGEN GROUP ASA" />
+        </attvalues>
+      </node>
+      <node id="c51" label="c51">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BELSHIPS ASA" />
+        </attvalues>
+      </node>
+      <node id="c59" label="c59">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="BORGESTAD ASA" />
+        </attvalues>
+      </node>
+      <node id="c58" label="c58">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Bonheur ASA" />
+        </attvalues>
+      </node>
+      <node id="c135" label="c135">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FRONTIER DRILLING ASA" />
+        </attvalues>
+      </node>
+      <node id="c134" label="c134">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FREDRIKSTAD FOTBALLKLUBB SPORT ASA" />
+        </attvalues>
+      </node>
+      <node id="c137" label="c137">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GC RIEBER SHIPPING ASA" />
+        </attvalues>
+      </node>
+      <node id="c136" label="c136">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="Ganger Rolf ASA" />
+        </attvalues>
+      </node>
+      <node id="c131" label="c131">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FOSEN ASA" />
+        </attvalues>
+      </node>
+      <node id="c130" label="c130">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FONDSFINANS KAPITALFORVALTNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c133" label="c133">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FRED. OLSEN PRODUCTION ASA" />
+        </attvalues>
+      </node>
+      <node id="c132" label="c132">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="FRED OLSEN ENERGY ASA" />
+        </attvalues>
+      </node>
+      <node id="c139" label="c139">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GJENSIDIGE INVESTERINGSR&amp;Aring;DGIVNING ASA" />
+        </attvalues>
+      </node>
+      <node id="c138" label="c138">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GJENSIDIGE BANK  ASA" />
+        </attvalues>
+      </node>
+      <node id="c259" label="c259">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PETROLEUM GEO-SERVICES ASA" />
+        </attvalues>
+      </node>
+      <node id="c251" label="c251">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PARETO BANK ASA" />
+        </attvalues>
+      </node>
+      <node id="c252" label="c252">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PARETO EIENDOMSKAPITAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c253" label="c253">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PARETO ENERGY SOLUTIONS INVESTOR ASA" />
+        </attvalues>
+      </node>
+      <node id="c254" label="c254">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PARETO OFFSHOREKAPITAL ASA" />
+        </attvalues>
+      </node>
+      <node id="c255" label="c255">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PARETO OFFSHOREKAPITAL II ASA" />
+        </attvalues>
+      </node>
+      <node id="c256" label="c256">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PARETO SHIPPINGKAPITAL II ASA" />
+        </attvalues>
+      </node>
+      <node id="c257" label="c257">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="PCI BIOTECH HOLDING ASA" />
+        </attvalues>
+      </node>
+      <node id="c155" label="c155">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="HEXAGON COMPOSITES ASA" />
+        </attvalues>
+      </node>
+      <node id="c150" label="c150">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="GYLDENDAL ASA" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="c225" target="c262" weight="1" />
+      <edge id="1" source="c225" target="c296" weight="1" />
+      <edge id="2" source="c225" target="c76" weight="1" />
+      <edge id="3" source="c225" target="c244" weight="1" />
+      <edge id="4" source="c225" target="c247" weight="1" />
+      <edge id="5" source="c225" target="c246" weight="1" />
+      <edge id="6" source="c225" target="c14" weight="1" />
+      <edge id="7" source="c224" target="c4" weight="2" />
+      <edge id="8" source="c224" target="c5" weight="1" />
+      <edge id="9" source="c224" target="c334" weight="1" />
+      <edge id="10" source="c221" target="c370" weight="1" />
+      <edge id="11" source="c220" target="c117" weight="1" />
+      <edge id="12" source="c220" target="c370" weight="1" />
+      <edge id="13" source="c223" target="c267" weight="1" />
+      <edge id="14" source="c223" target="c188" weight="1" />
+      <edge id="15" source="c223" target="c317" weight="1" />
+      <edge id="16" source="c223" target="c177" weight="1" />
+      <edge id="17" source="c222" target="c277" weight="1" />
+      <edge id="18" source="c222" target="c28" weight="1" />
+      <edge id="19" source="c222" target="c305" weight="1" />
+      <edge id="20" source="c222" target="c303" weight="1" />
+      <edge id="21" source="c222" target="c301" weight="1" />
+      <edge id="22" source="c222" target="c113" weight="1" />
+      <edge id="23" source="c222" target="c304" weight="1" />
+      <edge id="24" source="c179" target="c307" weight="1" />
+      <edge id="25" source="c179" target="c362" weight="2" />
+      <edge id="26" source="c179" target="c146" weight="1" />
+      <edge id="27" source="c179" target="c192" weight="1" />
+      <edge id="28" source="c171" target="c91" weight="1" />
+      <edge id="29" source="c171" target="c273" weight="2" />
+      <edge id="30" source="c171" target="c168" weight="1" />
+      <edge id="31" source="c171" target="c89" weight="1" />
+      <edge id="32" source="c171" target="c164" weight="1" />
+      <edge id="33" source="c171" target="c139" weight="1" />
+      <edge id="34" source="c171" target="c279" weight="1" />
+      <edge id="35" source="c171" target="c35" weight="1" />
+      <edge id="36" source="c171" target="c285" weight="1" />
+      <edge id="37" source="c172" target="c70" weight="1" />
+      <edge id="38" source="c175" target="c226" weight="1" />
+      <edge id="39" source="c175" target="c231" weight="1" />
+      <edge id="40" source="c175" target="c244" weight="1" />
+      <edge id="41" source="c177" target="c150" weight="1" />
+      <edge id="42" source="c177" target="c130" weight="1" />
+      <edge id="43" source="c177" target="c348" weight="1" />
+      <edge id="44" source="c177" target="c129" weight="1" />
+      <edge id="45" source="c177" target="c39" weight="1" />
+      <edge id="46" source="c177" target="c106" weight="1" />
+      <edge id="47" source="c176" target="c197" weight="1" />
+      <edge id="48" source="c176" target="c333" weight="1" />
+      <edge id="49" source="c176" target="c82" weight="1" />
+      <edge id="50" source="c176" target="c322" weight="1" />
+      <edge id="51" source="c176" target="c49" weight="1" />
+      <edge id="52" source="c176" target="c8" weight="1" />
+      <edge id="53" source="c176" target="c236" weight="1" />
+      <edge id="54" source="c176" target="c36" weight="1" />
+      <edge id="55" source="c176" target="c7" weight="1" />
+      <edge id="56" source="c379" target="c259" weight="1" />
+      <edge id="57" source="c379" target="c274" weight="1" />
+      <edge id="58" source="c377" target="c52" weight="1" />
+      <edge id="59" source="c375" target="c298" weight="1" />
+      <edge id="60" source="c374" target="c164" weight="1" />
+      <edge id="61" source="c374" target="c155" weight="1" />
+      <edge id="62" source="c373" target="c266" weight="3" />
+      <edge id="63" source="c372" target="c365" weight="1" />
+      <edge id="64" source="c370" target="c23" weight="1" />
+      <edge id="65" source="c370" target="c281" weight="1" />
+      <edge id="66" source="c370" target="c161" weight="1" />
+      <edge id="67" source="c298" target="c71" weight="1" />
+      <edge id="68" source="c299" target="c340" weight="1" />
+      <edge id="69" source="c299" target="c143" weight="1" />
+      <edge id="70" source="c294" target="c117" weight="1" />
+      <edge id="71" source="c295" target="c122" weight="1" />
+      <edge id="72" source="c295" target="c284" weight="1" />
+      <edge id="73" source="c295" target="c76" weight="1" />
+      <edge id="74" source="c296" target="c366" weight="1" />
+      <edge id="75" source="c296" target="c247" weight="1" />
+      <edge id="76" source="c296" target="c63" weight="1" />
+      <edge id="77" source="c296" target="c246" weight="1" />
+      <edge id="78" source="c297" target="c333" weight="1" />
+      <edge id="79" source="c292" target="c277" weight="1" />
+      <edge id="80" source="c292" target="c17" weight="1" />
+      <edge id="81" source="c108" target="c271" weight="1" />
+      <edge id="82" source="c108" target="c286" weight="1" />
+      <edge id="83" source="c108" target="c183" weight="1" />
+      <edge id="84" source="c108" target="c38" weight="1" />
+      <edge id="85" source="c108" target="c11" weight="1" />
+      <edge id="86" source="c108" target="c10" weight="1" />
+      <edge id="87" source="c109" target="c140" weight="1" />
+      <edge id="88" source="c109" target="c57" weight="1" />
+      <edge id="89" source="c109" target="c157" weight="1" />
+      <edge id="90" source="c109" target="c166" weight="1" />
+      <edge id="91" source="c109" target="c67" weight="1" />
+      <edge id="92" source="c109" target="c73" weight="1" />
+      <edge id="93" source="c109" target="c162" weight="1" />
+      <edge id="94" source="c109" target="c232" weight="1" />
+      <edge id="95" source="c109" target="c39" weight="1" />
+      <edge id="96" source="c109" target="c126" weight="1" />
+      <edge id="97" source="c109" target="c112" weight="1" />
+      <edge id="98" source="c104" target="c277" weight="1" />
+      <edge id="99" source="c104" target="c361" weight="1" />
+      <edge id="100" source="c104" target="c27" weight="1" />
+      <edge id="101" source="c106" target="c241" weight="1" />
+      <edge id="102" source="c100" target="c260" weight="1" />
+      <edge id="103" source="c100" target="c187" weight="1" />
+      <edge id="104" source="c100" target="c86" weight="1" />
+      <edge id="105" source="c100" target="c56" weight="1" />
+      <edge id="106" source="c101" target="c148" weight="1" />
+      <edge id="107" source="c101" target="c227" weight="1" />
+      <edge id="108" source="c101" target="c43" weight="2" />
+      <edge id="109" source="c101" target="c181" weight="1" />
+      <edge id="110" source="c101" target="c52" weight="1" />
+      <edge id="111" source="c102" target="c229" weight="1" />
+      <edge id="112" source="c103" target="c35" weight="1" />
+      <edge id="113" source="c103" target="c217" weight="1" />
+      <edge id="114" source="c204" target="c203" weight="3" />
+      <edge id="115" source="c200" target="c148" weight="1" />
+      <edge id="116" source="c200" target="c91" weight="1" />
+      <edge id="117" source="c200" target="c363" weight="1" />
+      <edge id="118" source="c197" target="c333" weight="1" />
+      <edge id="119" source="c197" target="c268" weight="1" />
+      <edge id="120" source="c197" target="c82" weight="1" />
+      <edge id="121" source="c197" target="c36" weight="1" />
+      <edge id="122" source="c196" target="c278" weight="2" />
+      <edge id="123" source="c198" target="c3" weight="1" />
+      <edge id="124" source="c333" target="c152" weight="1" />
+      <edge id="125" source="c331" target="c23" weight="1" />
+      <edge id="126" source="c331" target="c356" weight="1" />
+      <edge id="127" source="c331" target="c264" weight="1" />
+      <edge id="128" source="c337" target="c38" weight="1" />
+      <edge id="129" source="c337" target="c336" weight="1" />
+      <edge id="130" source="c337" target="c161" weight="1" />
+      <edge id="131" source="c336" target="c338" weight="1" />
+      <edge id="132" source="c334" target="c338" weight="1" />
+      <edge id="133" source="c44" target="c12" weight="2" />
+      <edge id="134" source="c44" target="c10" weight="2" />
+      <edge id="135" source="c41" target="c79" weight="1" />
+      <edge id="136" source="c42" target="c312" weight="1" />
+      <edge id="137" source="c43" target="c137" weight="1" />
+      <edge id="138" source="c43" target="c227" weight="1" />
+      <edge id="139" source="c43" target="c181" weight="1" />
+      <edge id="140" source="c43" target="c52" weight="1" />
+      <edge id="141" source="c48" target="c307" weight="1" />
+      <edge id="142" source="c48" target="c142" weight="1" />
+      <edge id="143" source="c48" target="c144" weight="1" />
+      <edge id="144" source="c48" target="c271" weight="1" />
+      <edge id="145" source="c49" target="c322" weight="1" />
+      <edge id="146" source="c49" target="c83" weight="1" />
+      <edge id="147" source="c49" target="c8" weight="1" />
+      <edge id="148" source="c49" target="c36" weight="1" />
+      <edge id="149" source="c49" target="c7" weight="1" />
+      <edge id="150" source="c140" target="c187" weight="1" />
+      <edge id="151" source="c140" target="c155" weight="1" />
+      <edge id="152" source="c140" target="c267" weight="1" />
+      <edge id="153" source="c140" target="c73" weight="1" />
+      <edge id="154" source="c140" target="c284" weight="1" />
+      <edge id="155" source="c140" target="c39" weight="1" />
+      <edge id="156" source="c141" target="c71" weight="1" />
+      <edge id="157" source="c141" target="c99" weight="1" />
+      <edge id="158" source="c141" target="c231" weight="1" />
+      <edge id="159" source="c141" target="c146" weight="1" />
+      <edge id="160" source="c141" target="c301" weight="1" />
+      <edge id="161" source="c142" target="c307" weight="1" />
+      <edge id="162" source="c143" target="c272" weight="1" />
+      <edge id="163" source="c144" target="c227" weight="1" />
+      <edge id="164" source="c144" target="c380" weight="2" />
+      <edge id="165" source="c146" target="c71" weight="1" />
+      <edge id="166" source="c146" target="c99" weight="1" />
+      <edge id="167" source="c146" target="c59" weight="1" />
+      <edge id="168" source="c146" target="c301" weight="1" />
+      <edge id="169" source="c146" target="c231" weight="1" />
+      <edge id="170" source="c147" target="c55" weight="1" />
+      <edge id="171" source="c149" target="c284" weight="1" />
+      <edge id="172" source="c384" target="c73" weight="1" />
+      <edge id="173" source="c383" target="c184" weight="1" />
+      <edge id="174" source="c383" target="c353" weight="1" />
+      <edge id="175" source="c383" target="c279" weight="1" />
+      <edge id="176" source="c248" target="c368" weight="1" />
+      <edge id="177" source="c241" target="c112" weight="1" />
+      <edge id="178" source="c241" target="c183" weight="1" />
+      <edge id="179" source="c247" target="c368" weight="1" />
+      <edge id="180" source="c247" target="c246" weight="5" />
+      <edge id="181" source="c246" target="c368" weight="1" />
+      <edge id="182" source="c244" target="c272" weight="1" />
+      <edge id="183" source="c244" target="c262" weight="1" />
+      <edge id="184" source="c244" target="c76" weight="1" />
+      <edge id="185" source="c348" target="c259" weight="1" />
+      <edge id="186" source="c348" target="c111" weight="1" />
+      <edge id="187" source="c348" target="c264" weight="1" />
+      <edge id="188" source="c349" target="c328" weight="1" />
+      <edge id="189" source="c349" target="c12" weight="1" />
+      <edge id="190" source="c340" target="c274" weight="3" />
+      <edge id="191" source="c340" target="c33" weight="1" />
+      <edge id="192" source="c39" target="c274" weight="1" />
+      <edge id="193" source="c39" target="c150" weight="1" />
+      <edge id="194" source="c39" target="c130" weight="3" />
+      <edge id="195" source="c39" target="c288" weight="1" />
+      <edge id="196" source="c39" target="c73" weight="2" />
+      <edge id="197" source="c39" target="c189" weight="1" />
+      <edge id="198" source="c39" target="c129" weight="3" />
+      <edge id="199" source="c38" target="c91" weight="1" />
+      <edge id="200" source="c38" target="c150" weight="1" />
+      <edge id="201" source="c38" target="c272" weight="1" />
+      <edge id="202" source="c38" target="c264" weight="1" />
+      <edge id="203" source="c38" target="c183" weight="1" />
+      <edge id="204" source="c38" target="c286" weight="2" />
+      <edge id="205" source="c38" target="c161" weight="1" />
+      <edge id="206" source="c38" target="c113" weight="1" />
+      <edge id="207" source="c35" target="c217" weight="1" />
+      <edge id="208" source="c34" target="c259" weight="1" />
+      <edge id="209" source="c37" target="c16" weight="1" />
+      <edge id="210" source="c37" target="c15" weight="1" />
+      <edge id="211" source="c36" target="c322" weight="1" />
+      <edge id="212" source="c36" target="c311" weight="1" />
+      <edge id="213" source="c36" target="c8" weight="1" />
+      <edge id="214" source="c36" target="c7" weight="1" />
+      <edge id="215" source="c36" target="c257" weight="1" />
+      <edge id="216" source="c31" target="c57" weight="1" />
+      <edge id="217" source="c30" target="c79" weight="1" />
+      <edge id="218" source="c30" target="c93" weight="1" />
+      <edge id="219" source="c30" target="c262" weight="1" />
+      <edge id="220" source="c33" target="c274" weight="1" />
+      <edge id="221" source="c32" target="c229" weight="1" />
+      <edge id="222" source="c288" target="c73" weight="1" />
+      <edge id="223" source="c288" target="c274" weight="1" />
+      <edge id="224" source="c286" target="c11" weight="1" />
+      <edge id="225" source="c286" target="c85" weight="1" />
+      <edge id="226" source="c286" target="c183" weight="1" />
+      <edge id="227" source="c285" target="c92" weight="1" />
+      <edge id="228" source="c285" target="c82" weight="1" />
+      <edge id="229" source="c285" target="c273" weight="1" />
+      <edge id="230" source="c285" target="c168" weight="1" />
+      <edge id="231" source="c285" target="c89" weight="2" />
+      <edge id="232" source="c285" target="c164" weight="1" />
+      <edge id="233" source="c285" target="c139" weight="1" />
+      <edge id="234" source="c285" target="c279" weight="1" />
+      <edge id="235" source="c284" target="c155" weight="1" />
+      <edge id="236" source="c284" target="c76" weight="1" />
+      <edge id="237" source="c282" target="c169" weight="3" />
+      <edge id="238" source="c281" target="c22" weight="1" />
+      <edge id="239" source="c281" target="c23" weight="1" />
+      <edge id="240" source="c281" target="c55" weight="1" />
+      <edge id="241" source="c281" target="c27" weight="1" />
+      <edge id="242" source="c281" target="c161" weight="1" />
+      <edge id="243" source="c119" target="c366" weight="1" />
+      <edge id="244" source="c118" target="c273" weight="1" />
+      <edge id="245" source="c114" target="c53" weight="1" />
+      <edge id="246" source="c114" target="c14" weight="1" />
+      <edge id="247" source="c113" target="c150" weight="1" />
+      <edge id="248" source="c113" target="c264" weight="1" />
+      <edge id="249" source="c113" target="c61" weight="1" />
+      <edge id="250" source="c113" target="c96" weight="1" />
+      <edge id="251" source="c112" target="c59" weight="1" />
+      <edge id="252" source="c110" target="c67" weight="1" />
+      <edge id="253" source="c232" target="c57" weight="1" />
+      <edge id="254" source="c232" target="c157" weight="1" />
+      <edge id="255" source="c232" target="c166" weight="3" />
+      <edge id="256" source="c232" target="c162" weight="1" />
+      <edge id="257" source="c232" target="c126" weight="2" />
+      <edge id="258" source="c233" target="c234" weight="1" />
+      <edge id="259" source="c230" target="c3" weight="1" />
+      <edge id="260" source="c230" target="c151" weight="1" />
+      <edge id="261" source="c230" target="c228" weight="1" />
+      <edge id="262" source="c230" target="c4" weight="1" />
+      <edge id="263" source="c231" target="c71" weight="1" />
+      <edge id="264" source="c231" target="c99" weight="1" />
+      <edge id="265" source="c231" target="c301" weight="1" />
+      <edge id="266" source="c236" target="c93" weight="1" />
+      <edge id="267" source="c236" target="c265" weight="1" />
+      <edge id="268" source="c236" target="c82" weight="1" />
+      <edge id="269" source="c236" target="c17" weight="1" />
+      <edge id="270" source="c307" target="c362" weight="2" />
+      <edge id="271" source="c304" target="c277" weight="1" />
+      <edge id="272" source="c304" target="c305" weight="3" />
+      <edge id="273" source="c304" target="c303" weight="2" />
+      <edge id="274" source="c304" target="c300" weight="1" />
+      <edge id="275" source="c304" target="c301" weight="1" />
+      <edge id="276" source="c305" target="c277" weight="1" />
+      <edge id="277" source="c305" target="c303" weight="2" />
+      <edge id="278" source="c305" target="c300" weight="1" />
+      <edge id="279" source="c305" target="c301" weight="1" />
+      <edge id="280" source="c302" target="c300" weight="1" />
+      <edge id="281" source="c302" target="c301" weight="1" />
+      <edge id="282" source="c303" target="c277" weight="1" />
+      <edge id="283" source="c303" target="c300" weight="1" />
+      <edge id="284" source="c303" target="c301" weight="1" />
+      <edge id="285" source="c301" target="c277" weight="1" />
+      <edge id="286" source="c301" target="c71" weight="1" />
+      <edge id="287" source="c301" target="c99" weight="1" />
+      <edge id="288" source="c71" target="c99" weight="1" />
+      <edge id="289" source="c70" target="c276" weight="1" />
+      <edge id="290" source="c73" target="c274" weight="1" />
+      <edge id="291" source="c75" target="c74" weight="3" />
+      <edge id="292" source="c76" target="c262" weight="1" />
+      <edge id="293" source="c76" target="c267" weight="1" />
+      <edge id="294" source="c93" target="c262" weight="1" />
+      <edge id="295" source="c92" target="c82" weight="1" />
+      <edge id="296" source="c92" target="c264" weight="1" />
+      <edge id="297" source="c92" target="c24" weight="1" />
+      <edge id="298" source="c92" target="c89" weight="1" />
+      <edge id="299" source="c92" target="c20" weight="4" />
+      <edge id="300" source="c92" target="c186" weight="1" />
+      <edge id="301" source="c151" target="c3" weight="1" />
+      <edge id="302" source="c151" target="c4" weight="1" />
+      <edge id="303" source="c97" target="c63" weight="1" />
+      <edge id="304" source="c96" target="c95" weight="1" />
+      <edge id="305" source="c154" target="c153" weight="1" />
+      <edge id="306" source="c276" target="c228" weight="1" />
+      <edge id="307" source="c277" target="c27" weight="1" />
+      <edge id="308" source="c277" target="c361" weight="1" />
+      <edge id="309" source="c272" target="c91" weight="1" />
+      <edge id="310" source="c273" target="c91" weight="1" />
+      <edge id="311" source="c273" target="c168" weight="1" />
+      <edge id="312" source="c273" target="c89" weight="1" />
+      <edge id="313" source="c273" target="c164" weight="1" />
+      <edge id="314" source="c273" target="c139" weight="1" />
+      <edge id="315" source="c273" target="c279" weight="1" />
+      <edge id="316" source="c271" target="c5" weight="1" />
+      <edge id="317" source="c278" target="c19" weight="1" />
+      <edge id="318" source="c279" target="c168" weight="1" />
+      <edge id="319" source="c279" target="c89" weight="1" />
+      <edge id="320" source="c279" target="c164" weight="1" />
+      <edge id="321" source="c279" target="c139" weight="1" />
+      <edge id="322" source="c86" target="c187" weight="1" />
+      <edge id="323" source="c87" target="c88" weight="3" />
+      <edge id="324" source="c89" target="c82" weight="1" />
+      <edge id="325" source="c89" target="c168" weight="1" />
+      <edge id="326" source="c89" target="c164" weight="1" />
+      <edge id="327" source="c89" target="c139" weight="1" />
+      <edge id="328" source="c354" target="c160" weight="1" />
+      <edge id="329" source="c357" target="c131" weight="2" />
+      <edge id="330" source="c22" target="c55" weight="1" />
+      <edge id="331" source="c22" target="c21" weight="1" />
+      <edge id="332" source="c22" target="c27" weight="1" />
+      <edge id="333" source="c22" target="c25" weight="1" />
+      <edge id="334" source="c23" target="c55" weight="1" />
+      <edge id="335" source="c23" target="c21" weight="1" />
+      <edge id="336" source="c23" target="c264" weight="1" />
+      <edge id="337" source="c23" target="c161" weight="1" />
+      <edge id="338" source="c20" target="c260" weight="1" />
+      <edge id="339" source="c20" target="c186" weight="1" />
+      <edge id="340" source="c20" target="c264" weight="1" />
+      <edge id="341" source="c20" target="c24" weight="2" />
+      <edge id="342" source="c20" target="c152" weight="1" />
+      <edge id="343" source="c20" target="c17" weight="1" />
+      <edge id="344" source="c20" target="c15" weight="1" />
+      <edge id="345" source="c21" target="c55" weight="1" />
+      <edge id="346" source="c21" target="c25" weight="1" />
+      <edge id="347" source="c27" target="c55" weight="1" />
+      <edge id="348" source="c27" target="c361" weight="1" />
+      <edge id="349" source="c24" target="c17" weight="1" />
+      <edge id="350" source="c24" target="c15" weight="1" />
+      <edge id="351" source="c25" target="c186" weight="1" />
+      <edge id="352" source="c129" target="c150" weight="2" />
+      <edge id="353" source="c129" target="c189" weight="1" />
+      <edge id="354" source="c129" target="c130" weight="2" />
+      <edge id="355" source="c122" target="c121" weight="1" />
+      <edge id="356" source="c126" target="c57" weight="1" />
+      <edge id="357" source="c126" target="c157" weight="1" />
+      <edge id="358" source="c126" target="c166" weight="2" />
+      <edge id="359" source="c126" target="c162" weight="1" />
+      <edge id="360" source="c8" target="c322" weight="1" />
+      <edge id="361" source="c8" target="c7" weight="2" />
+      <edge id="362" source="c3" target="c4" weight="2" />
+      <edge id="363" source="c3" target="c6" weight="1" />
+      <edge id="364" source="c227" target="c181" weight="2" />
+      <edge id="365" source="c7" target="c322" weight="1" />
+      <edge id="366" source="c5" target="c4" weight="1" />
+      <edge id="367" source="c317" target="c67" weight="1" />
+      <edge id="368" source="c67" target="c133" weight="1" />
+      <edge id="369" source="c82" target="c268" weight="1" />
+      <edge id="370" source="c85" target="c11" weight="1" />
+      <edge id="371" source="c168" target="c322" weight="1" />
+      <edge id="372" source="c168" target="c164" weight="1" />
+      <edge id="373" source="c168" target="c139" weight="1" />
+      <edge id="374" source="c168" target="c162" weight="1" />
+      <edge id="375" source="c166" target="c57" weight="1" />
+      <edge id="376" source="c166" target="c157" weight="1" />
+      <edge id="377" source="c166" target="c162" weight="1" />
+      <edge id="378" source="c167" target="c157" weight="1" />
+      <edge id="379" source="c164" target="c152" weight="1" />
+      <edge id="380" source="c164" target="c139" weight="1" />
+      <edge id="381" source="c162" target="c57" weight="1" />
+      <edge id="382" source="c162" target="c322" weight="1" />
+      <edge id="383" source="c162" target="c157" weight="1" />
+      <edge id="384" source="c163" target="c260" weight="1" />
+      <edge id="385" source="c19" target="c16" weight="1" />
+      <edge id="386" source="c13" target="c263" weight="1" />
+      <edge id="387" source="c12" target="c328" weight="1" />
+      <edge id="388" source="c12" target="c10" weight="2" />
+      <edge id="389" source="c11" target="c328" weight="1" />
+      <edge id="390" source="c11" target="c10" weight="1" />
+      <edge id="391" source="c17" target="c15" weight="1" />
+      <edge id="392" source="c16" target="c15" weight="1" />
+      <edge id="393" source="c15" target="c155" weight="1" />
+      <edge id="394" source="c264" target="c150" weight="1" />
+      <edge id="395" source="c267" target="c187" weight="1" />
+      <edge id="396" source="c91" target="c56" weight="1" />
+      <edge id="397" source="c91" target="c217" weight="1" />
+      <edge id="398" source="c217" target="c183" weight="1" />
+      <edge id="399" source="c157" target="c57" weight="1" />
+      <edge id="400" source="c184" target="c183" weight="1" />
+      <edge id="401" source="c189" target="c130" weight="1" />
+      <edge id="402" source="c325" target="c57" weight="1" />
+      <edge id="403" source="c326" target="c327" weight="1" />
+      <edge id="404" source="c56" target="c251" weight="1" />
+      <edge id="405" source="c51" target="c59" weight="1" />
+      <edge id="406" source="c58" target="c136" weight="6" />
+      <edge id="407" source="c58" target="c133" weight="1" />
+      <edge id="408" source="c58" target="c132" weight="1" />
+      <edge id="409" source="c136" target="c132" weight="1" />
+      <edge id="410" source="c136" target="c133" weight="1" />
+      <edge id="411" source="c130" target="c150" weight="1" />
+      <edge id="412" source="c133" target="c132" weight="3" />
+      <edge id="413" source="c252" target="c253" weight="1" />
+      <edge id="414" source="c252" target="c254" weight="1" />
+      <edge id="415" source="c252" target="c256" weight="1" />
+      <edge id="416" source="c253" target="c254" weight="1" />
+      <edge id="417" source="c253" target="c256" weight="1" />
+      <edge id="418" source="c254" target="c255" weight="1" />
+      <edge id="419" source="c254" target="c256" weight="2" />
+      <edge id="420" source="c255" target="c256" weight="1" />
+    </edges>
+  </graph>
+</gexf>
